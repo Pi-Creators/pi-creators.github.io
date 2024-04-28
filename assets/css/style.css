@@ -1126,6 +1126,7 @@ section {
 .team {
   background: #fff;
   padding: 60px 0;
+  padding-left: 20px;
 }
 
 .team .member {
